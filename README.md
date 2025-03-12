@@ -13,10 +13,15 @@ marvin@marvinirwin.com
 
 ## Experience  
 
-**Tech Lead, Genrait (November 2022 - Present)**  
-- Led the web platform for bioinformatics, managing code reviews and deployments.  
-- Refactored and rewrote an Angular backend into React and a legacy Node backend into TypeScript.  
-- Implemented event-based architectures for coordinating long-running computations and object store file transfers.  
+**Tech Lead, Genrait (November 2024 - Present)**  
+- Completely responsible for the entire web platform for bioinformatics, managing code reviews and deployments.
+- Refactored and rewrote an Angular backend into React and a legacy Node backend into TypeScript.
+- Implemented event-based architectures for coordinating long-running computations and object store file transfers.
+
+**Learned Chinese in Taipei (2023)**
+- Lived in Taipei for the better part of a year full time studying Mandarin at a cram school.  Obtained about HSK-4 proficiency.
+- Learned to speak, read and write (with Pinyni) standard Chinese, though all the things I read now are in Simplified so I have mostly forgotten how to read traditional.
+- 住在台北学中文左右半年，回去加拿大以后继续学，可是我忘了繁体字。我讲的非常标准和海上中文课和中文美声课。
 
 **React Front End Lead, PureFacts (Dec 2021 - Dec 2022)**  
 - Collaborated with designers, product owners, and developers to build an internal library and application for a declarative React financial reporting framework.  
