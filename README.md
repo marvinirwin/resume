@@ -2,6 +2,9 @@
 marvin@marvinirwin.com  
 778-870-8224  
 
+**Professional Summary**  
+Developer with eight years of experience in building web applications from the ground up and refactoring old ones.  Specializes in being responsible for the development, code review, deployment and database managament of entire web applications.  Has written most production languages and mostly uses React, NodeJS, Typescript, SQL, Docker, NGINX, python and bash to put things into production.
+
  [https://replay.marvinirwin.com](https://replay.marvinirwin.com)
 - Developed a video indexing system using entity, posture, face, and voice recognition for wrestling and fighting video content.
 - Entities in videos are selected and their posture points for similar actions matched using Dynamic Time Warping for a movement based search engine.
