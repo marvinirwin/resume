@@ -1,50 +1,47 @@
-
 # Marvin Irwin
-marvin@marvinirwin.com
+marvin@marvinirwin.com  
+778-870-8224  
 
-778-870-8224
+**Personal Project: [https://replay.marvinirwin.com](https://replay.marvinirwin.com)**  
+- Developed a video indexing system using entity, posture, face, and voice recognition for wrestling and fighting video content.
+- Entities in videos are selected and their posture points for similar actions matched using Dynamic Time Warping for a movement based search engine.
+- Utilized Mediapipe and Arcface for movement identification and Whisper for audio transcription.  
+- Users have an interface for uploading, searching, and automatically naming video content.  
+- ffmpeg for concatenating identified durations to create video content.  
+- Integrated facial recognition with manual identification and cosine similarity for automatic labeling,  unknown faces are shown to users to match faces to names.
+- Optimized the system to run on a small Digital Ocean droplet and two laptop CPUs, targeting minimal resource usage.  
 
-# Tech Lead
+## Experience  
 
-## Professional Summary
-Six years of experience building, among many other things, React applications. Extensive experience building as part of a team on an established project, migrating older web frameworks to React-based solutions, and architecting new Front End projects. Proficient in Typescript, React, Javascript, Webpack, NPM, NodeJs, Git, CSS/SCSS/SASS, SQL, Server Side NodeJs, NGINX, Powershell, Bash, and Docker. Strong ability to collaborate with designers, developers, and product owners through active communication and teamwork, leading to successful project outcomes.
+**Tech Lead, Genrait (November 2022 - Present)**  
+- Led the web platform for bioinformatics, managing code reviews and deployments.  
+- Refactored and rewrote an Angular backend into React and a legacy Node backend into TypeScript.  
+- Implemented event-based architectures for coordinating long-running computations and object store file transfers.  
 
-## Experience
+**React Front End Lead, PureFacts (Dec 2021 - Dec 2022)**  
+- Collaborated with designers, product owners, and developers to build an internal library and application for a declarative React financial reporting framework.  
+- Delivered the project on time with all required features, adapting to changes through frequent demos and meetings.  
+- Technologies: TypeScript, JavaScript, React, Webpack, NPM, Node.js, Express, Redux, Azure Cloud, .NET.  
 
-### Dec 2021 - Dec 2022 PureFacts https://www.purefacts.com/
-### React Front End Lead
+**Senior React Developer, Arc’teryx (Apr 2021 - Jan 2022)**  
+- Migrated legacy pages to a new reactive website, integrating old and new APIs and managing feature flags.  
+- Conducted code reviews and mentored junior developers on writing proper React Hooks and improving code quality.  
+- Deployed modern, compliant, and reactive pages steadily over legacy ones.  
+- Technologies: TypeScript, React, Next.js, Webpack, Nginx.  
 
-- Collaborated closely with designers, product owners, and other developers on the creation of an internal library and application for a declarative, React financial reporting framework.
-- Delivered the project on time with all required features, successfully passing it on to full-time employees by adapting to changes through frequent demos and meetings with designers.
-- Technologies used: Typescript, Javascript, React, Webpack, NPM, NodeJs, Express, Redux, Azure Cloud, and .NET.
+**Front End Developer, Global Relay (Aug 2020 - Apr 2021)**  
+- Developed a desktop version of a chat client for financial regulation.  
+- Collaborated with a large team to add features, refactor, fix bugs, and migrate features to the desktop.  
+- Delivered code style presentations to improve team code quality and provided code review guidelines.  
+- Technologies: TypeScript, React, Electron, Webpack, Redux.  
 
-### Apr 2021 - Jan 2022 Arcâ€™Teryx https://arcteryx.com/
-### Senior React Developer
+**Full Stack React & PHP Developer, Nucleuslabs (Mar 2019 - Aug 2020)**  
+- Maintained a large, old Electronic Medical Record (EMR) platform written in PHP.  
+- Implemented UI, database, and business logic updates, working closely with QA.  
+- Resolved customer issues quickly by communicating directly with customer service representatives.  
+- Technologies: JavaScript, React, PHP, SQL.  
 
-- Migrated legacy pages to a new, reactive website by overcoming challenges such as integrating old and new APIs, handling feature flags, and consulting with product owners to determine necessary functionalities from the old site.
-- Conducted code reviews and mentored junior developers, helping them write React Hooks properly and provided code style recommendations to improve overall code quality.
-- Steadily deployed modern, compliant, and reactive pages over legacy ones without major issues.
-- Technologies used: Typescript, React, NextJS, Webpack, and Nginx.
-
-### Aug 2020 - Apr 2021 Global Relay https://www.globalrelay.com/
-### Front End Developer
-
-- Created a desktop version of a chat client designed for financial regulation.
-- Collaborated with a large team to add features, refactor, fix bugs, and migrate features to the desktop by maintaining frequent communication channels, preventing merge conflicts, and navigating project complexity.
-- Delivered code style presentations that led to increased code quality and provided guidelines for code reviews across the team.
-- Technologies used: Typescript, React, Electron, Webpack, and Redux.
-
-### Mar 2019 - Aug 2020 Nucleuslabs http://nucleuslabs.com/
-### Full Stack React & PHP Developer
-
-- Maintained a large, old Electronic Medical Record (EMR) platform written in PHP.
-- Implemented UI updates, database updates, and business logic updates, working closely with QA.
-- Directly communicated with customer service representatives to quickly resolve issues for customers on the phone.
-- Technologies used: Javascript, React, PHP, and SQL.
-
-### Jan 2017 - Mar 2019 Starline Windows https://www.starlinewindows.com/
-### Full Stack Developer
-
-- Built, deployed, and maintained custom CNC machine interfaces using React based websites to improve visualization and user experience.
-- Worked on-site with machine operators to enhance interface productivity by providing visual context of orders, metal dimensions, and proper machine intake setup, ensuring the program met their needs.
-- Technologies used: Typescript, React, Golang, SQL, PowerShell.
+**Full Stack Developer, Starline Windows (Jan 2017 - Mar 2019)**  
+- Built, deployed, and maintained custom CNC machine interfaces using React-based websites.  
+- Enhanced interface productivity by providing visual context for machine operators.  
+- Technologies: TypeScript, React, Golang, SQL, PowerShell.  
