@@ -2,7 +2,7 @@
 marvin@marvinirwin.com  
 778-870-8224  
 
-**Personal Project: [https://replay.marvinirwin.com](https://replay.marvinirwin.com)**  
+** [https://replay.marvinirwin.com](https://replay.marvinirwin.com)**  
 - Developed a video indexing system using entity, posture, face, and voice recognition for wrestling and fighting video content.
 - Entities in videos are selected and their posture points for similar actions matched using Dynamic Time Warping for a movement based search engine.
 - Utilized Mediapipe and Arcface for movement identification and Whisper for audio transcription.  
