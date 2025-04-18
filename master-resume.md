@@ -8,7 +8,7 @@ marvin@marvinirwin.com
 Developer with eight years of experience in building web applications from the ground up and refactoring old ones.  Worked in Electronic Medical Records, Manufacturing, Financial Compliance, Financial Reporting, E-Commerce and Bioinformatics.  Building Reactive websites for all of them.  
 Specializes in being responsible for the development, code review, deployment, and database management of entire web applications. Has written most production languages and mostly uses React, NodeJS, TypeScript, SQL, Docker, NGINX, Python, and Bash to put things into production.  Extremely good at putting thing into production in weeks with the simplest and most readable code possible.
 
-**Replay [https://replay.marvinirwin.com](https://replay.marvinirwin.com)  
+## Replay [https://replay.marvinirwin.com](https://replay.marvinirwin.com)  
 - Developed a video indexing system using entity, posture, face, and voice recognition for wrestling and fighting video content.  
 - Entities in videos are selected and their posture points for similar actions matched using Dynamic Time Warping for a movement-based search engine.  
 - Utilized Mediapipe and Arcface for movement identification and Whisper for audio transcription.  
