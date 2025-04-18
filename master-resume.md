@@ -5,9 +5,10 @@ marvin@marvinirwin.com
 ---
 
 **Professional Summary**  
-Developer with eight years of experience in building web applications from the ground up and refactoring old ones. Specializes in being responsible for the development, code review, deployment, and database management of entire web applications. Has written most production languages and mostly uses React, NodeJS, TypeScript, SQL, Docker, NGINX, Python, and Bash to put things into production.  Extremely good at putting thing into production in weeks with the simplest and most readable code possible.
+Developer with eight years of experience in building web applications from the ground up and refactoring old ones.  Worked in Electronic Medical Records, Manufacturing, Financial Compliance, Financial Reporting, E-Commerce and Bioinformatics.  Building Reactive websites for all of them.  
+Specializes in being responsible for the development, code review, deployment, and database management of entire web applications. Has written most production languages and mostly uses React, NodeJS, TypeScript, SQL, Docker, NGINX, Python, and Bash to put things into production.  Extremely good at putting thing into production in weeks with the simplest and most readable code possible.
 
-**[https://replay.marvinirwin.com](https://replay.marvinirwin.com)  
+**Replay [https://replay.marvinirwin.com](https://replay.marvinirwin.com)  
 - Developed a video indexing system using entity, posture, face, and voice recognition for wrestling and fighting video content.  
 - Entities in videos are selected and their posture points for similar actions matched using Dynamic Time Warping for a movement-based search engine.  
 - Utilized Mediapipe and Arcface for movement identification and Whisper for audio transcription.  
@@ -25,7 +26,7 @@ Developer with eight years of experience in building web applications from the g
 - Refactored a fragile, untyped JavaScript and misused Angular 2 backend into a modern React and TypeScript stack, preserving existing functionality while eliminating over 50% of dead code to improve maintainability.  
 - Designed and implemented an event-based architecture using Minio events to synchronize real-time database tables with S3-compatible object stores (AWS S3, Minio, Wasabi), enabling accurate folder sizes and seamless copy operations in a user-facing file system.  
 - Led a team of two junior developers, providing meticulous code reviews to ensure stability in a precarious codebase and mentoring them on best practices.  
-- Introduced Cypress end-to-end testing, slashing production deployment times from one week to one day and reducing manual testing efforts by 75%.  
+- Introduced Cypress end-to-end testing, slashing production deployment times from one week to one day and removing the vast majority of manual testing.  
 - Streamlined the database by deleting redundant tables and consolidating critical functionality, removing unused collections and dead code to enhance system efficiency.  
 - Tackled significant refactoring challenges, such as maintaining feature parity in a brittle legacy system, by strategically prioritizing live code and validating changes with automated tests.  
 
