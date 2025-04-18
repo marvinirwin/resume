@@ -34,7 +34,7 @@ Developer with eight years of experience in building web applications from the g
 - Learned to speak, read, and write (with Pinyin) standard Chinese, though all the things I read now are in Simplified, so I have mostly forgotten how to read Traditional.  
 - 住在台北学中文左右半年，回去加拿大以后继续学，可是我忘了繁体字。我讲的非常标准和上海中文课和中文美声课。  
 
-**React Front End Lead, PureFacts (Dec 2021 - Dec 2022)**  
+**Contract - React Front End Lead, PureFacts (Dec 2021 - Dec 2022)**  
 - Collaborated with designers, product owners, and a small team of two developers to architect and deliver a declarative React financial reporting framework, enabling bank administrators to create custom dashboards.  
 - Developed a feature-rich internal library allowing end users to design dashboards with Matplotlib-style graph displays, connect diverse data sources, and generate PDF reports tailored to their configurations.  
 - Delivered the complete library to the company in an accelerated six-month timeline, driving rapid development cycles to meet frequent demo deadlines while ensuring all required features were implemented.  
@@ -42,7 +42,7 @@ Developer with eight years of experience in building web applications from the g
 - Leveraged technologies including TypeScript, JavaScript, React, Webpack, NPM, Node.js, Express, Redux, Azure Cloud, and .NET to build a scalable and performant solution.  
 - Conducted code reviews and provided technical guidance to ensure high-quality, maintainable code under tight deadlines.  
 
-**Senior React Developer, Arc’teryx (Apr 2021 - Jan 2022)**  
+**Contract - Senior React Developer, Arc’teryx (Apr 2021 - Jan 2022)**  
 - Led the migration of legacy user profile pages to a modern, reactive website, integrating old and new APIs while managing feature flags to ensure seamless transitions.  
 - Tackled challenges in refactoring a JavaScript-based monorepo by introducing TypeScript, enhancing code reliability and maintainability across the project.  
 - Mentored a group of over two junior developers, guiding them through the adoption of newly released React Hooks as an alternative to class-based components, improving code modularity and state management.  
