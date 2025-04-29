@@ -10,7 +10,7 @@ Specializes in being responsible for the development, code review, deployment, a
 
 ## Experience  
 
-**Tech Lead, Genrait (November 2024 - Present)**  
+**Tech Lead, Genrait (November 2023 - Present)**  
 - Spearheaded the development, code review, and deployment of an entire web platform for bioinformatics, overseeing all aspects of the software lifecycle.  
 - Refactored a fragile, untyped JavaScript and misused Angular 2 backend into a modern React and TypeScript stack, preserving existing functionality while eliminating over 50% of dead code to improve maintainability.  
 - Designed and implemented an event-based architecture using Minio events to synchronize real-time database tables with S3-compatible object stores (AWS S3, Minio, Wasabi), enabling accurate folder sizes and seamless copy operations in a user-facing file system.  
